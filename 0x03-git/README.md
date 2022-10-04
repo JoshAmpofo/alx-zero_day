@@ -1,3 +1,3 @@
-## ALX Git Tasks
+## ALX Tasks
 
-This repo will contain tasks on git assigned in the Software Engineering program
+This repo will contain all directories and codes on tasks assigned in the ALX Software Engineering program
