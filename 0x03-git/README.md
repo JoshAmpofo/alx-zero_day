@@ -1,3 +1,3 @@
 ## ALX Tasks
 
-This repo will contain all directories and codes on tasks assigned in the ALX Software Engineering program
+This repo will contain directories and codes on projects assigned in the ALX Software Engineering program
